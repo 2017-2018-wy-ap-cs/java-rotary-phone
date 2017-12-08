@@ -1,0 +1,10 @@
+#! /bin/bash
+
+comment="save"
+[ ! -z "$*" ] && comment="$*"
+
+git pull
+git add -A .
+git commit -a -m "$comment"
+git push
+
