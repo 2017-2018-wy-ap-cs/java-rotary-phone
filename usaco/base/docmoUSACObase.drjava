@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="TrackCrossings.java" package="" timestamp="11-Dec-2017 09:53:21">
+        <select from="1691" to="1691"/>
+        <scroll column="2119" row="0"/>
+      </file>
+      <file name="USACOTestTester.java" package="" timestamp="11-Dec-2017 09:00:14">
+        <select from="1691" to="1691"/>
+        <scroll column="2119" row="0"/>
+      </file>
+      <file name="USACOTest.java" package="" timestamp="11-Dec-2017 09:00:14">
+        <select from="1691" to="1691"/>
+        <scroll column="2119" row="0"/>
+      </file>
+      <file name="USACOResultLoaderTrivial.java" package="" timestamp="11-Dec-2017 09:00:14">
+        <select from="1691" to="1691"/>
+        <scroll column="2119" row="0"/>
+      </file>
+      <file name="USACOResultLoaderFile.java" package="" timestamp="11-Dec-2017 09:00:14">
+        <select from="1691" to="1691"/>
+        <scroll column="2119" row="0"/>
+      </file>
+      <file name="USACOResultLoader.java" package="" timestamp="11-Dec-2017 09:00:14">
+        <select from="1691" to="1691"/>
+        <scroll column="2119" row="0"/>
+      </file>
+      <file name="USACOProblem.java" package="" timestamp="11-Dec-2017 09:00:14">
+        <select from="1691" to="1691"/>
+        <scroll column="2119" row="0"/>
+      </file>
+      <file name="USACODummyProblem.java" package="" timestamp="11-Dec-2017 09:00:14">
+        <select from="1691" to="1691"/>
+        <scroll column="2119" row="0"/>
+      </file>
+      <file name="SingleCow.java" package="" timestamp="11-Dec-2017 09:51:23">
+        <select from="1691" to="1691"/>
+        <scroll column="2119" row="0"/>
+      </file>
+      <file name="CrossingsTest.java" package="" timestamp="11-Dec-2017 09:54:36">
+        <select from="1691" to="1691"/>
+        <scroll column="2119" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
