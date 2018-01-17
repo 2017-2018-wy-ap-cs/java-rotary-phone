@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="CharMatrixTester.java" package="" timestamp="17-Jan-2018 10:13:36">
+        <select from="849" to="849"/>
+        <scroll column="1187" row="0"/>
+      </file>
+      <file name="CharMatrix.java" package="" timestamp="17-Jan-2018 09:39:56">
+        <select from="849" to="849"/>
+        <scroll column="1187" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
