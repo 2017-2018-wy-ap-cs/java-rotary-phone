@@ -29,6 +29,7 @@ public class HospitalTest {
         // Numbered from 0
         return Arrays.asList(new Object[][]{
           // first item is [0]
+          //    { data, secs, correct_answer }
                 {"hii",1,0}, // 60 bpm, iv rate 2 = good
                 {"hi",60,2},     // one beat per minute?!
                 {"hhii",2,1},   // 60 bpm, but iv rate is 1.0 = too low
@@ -39,8 +40,9 @@ public class HospitalTest {
                 {"hihihihi",5,2}, // 48bpm = alert!
                 {"hiihiihiihii",6,2}, // 40 bpm = alert!
                 {"hiii",1,0}, // 60 bpm, iv rate 3 = ok
-                {"iiihiiiiiiiiiiiiiiiiiiiihiiihiihiihiihii",4,0} // 60bpm,iv 2
-                
+                {"iiihiiiiiiiiiiiiiiiiiiiihiiihiihiihiihii",4,0}, // 60bpm,iv 2
+                {"hiiiihhiiii",1,0}, // "hii" 60bpm, iv 2 = good
+                {"iiihhiiihhiiihhiii",2,1}, // "hh" 60 mpb iv 0 = yellow alert
                 // data, time(secs), state(0=good,1=yellow,2=red alert)
             });
     }

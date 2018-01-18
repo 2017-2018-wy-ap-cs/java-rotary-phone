@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <drjava version="drjava-20160913-225446">
-  <project autorefresh="false" main="" root="" work="">
+  <project autorefresh="false" root="" work="">
     <createjar file=""/>
     <source>
-      <file active="true" name="HospitalTest.java" package="" timestamp="17-Jan-2018 23:39:17">
-        <select from="1272" to="1272"/>
-        <scroll column="712" row="0"/>
-      </file>
-      <file name="Hospital.java" package="" timestamp="17-Jan-2018 23:18:07">
-        <select from="1272" to="1272"/>
-        <scroll column="712" row="0"/>
+      <file active="true" name="HospitalTest.java" package="" timestamp="18-Jan-2018 10:08:04">
+        <select from="1624" to="1624"/>
+        <scroll column="1069" row="0"/>
       </file>
       <file name="Main.java" package="" timestamp="17-Jan-2018 23:35:53">
-        <select from="1272" to="1272"/>
-        <scroll column="712" row="0"/>
+        <select from="1624" to="1624"/>
+        <scroll column="1069" row="0"/>
+      </file>
+      <file name="Hospital.java" package="" timestamp="18-Jan-2018 10:07:51">
+        <select from="1624" to="1624"/>
+        <scroll column="1069" row="0"/>
       </file>
     </source>
     <included/>
