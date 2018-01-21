@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Ch12Lecture2B.java" package="" timestamp="16-Jan-2018 11:37:09">
+        <select from="1028" to="1028"/>
+        <scroll column="823" row="0"/>
+      </file>
+      <file name="Ch12Lecture2.java" package="" timestamp="16-Jan-2018 10:49:45">
+        <select from="1028" to="1028"/>
+        <scroll column="823" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
