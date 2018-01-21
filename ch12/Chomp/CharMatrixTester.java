@@ -5,8 +5,6 @@ import java.util.*;
 import org.junit.*;
 import org.junit.runner.*;
 import static org.junit.Assert.*;
-import org.junit.runners.Parameterized;
-import org.junit.runners.Parameterized.Parameters;
 
 public class CharMatrixTester
 {
@@ -53,8 +51,8 @@ public class CharMatrixTester
     public void testCountInRowCol() {
         assertEquals(0, ex1.countInRow(1));
         assertEquals(0, ex1.countInCol(1));
-        assertEquals(8, ex2.countInRow(1));
-        assertEquals(4, ex2.countInCol(1));
+        assertEquals(4, ex2.countInRow(1));
+        assertEquals(8, ex2.countInCol(1));
     }
 
     @Test
@@ -68,18 +66,19 @@ public class CharMatrixTester
     @Test
     public void testClearRect2() {
         ex2.clearRect(5,3,7,3);
-        assertEquals(5,ex2.countInRow(6));
-        assertEquals(8,ex2.countInRow(2));
-        assertEquals(4,ex2.countInCol(2));
-        assertEquals(3,ex2.countInCol(3));
+        assertEquals(3,ex2.countInRow(6));
+        assertEquals(4,ex2.countInRow(2));
+        assertEquals(8,ex2.countInCol(2));
+        assertEquals(5,ex2.countInCol(3));
     }
 
     @Test
     public void testFillRect1() {
-        ex1.fillRect(4,3,5,8,'*');
-        assertEquals('*',ex1.charAt(4,7));
-        assertEquals(5,ex1.countInRow(4));
-        assertEquals(5,ex1.countInCol(2));
-        assertEquals(3,ex1.countInCol(6));
+        ex1.fillRect(1,3,2,8,'*');
+        assertEquals('*',ex1.charAt(2,6));
+        assertEquals(0,ex1.countInRow(3));
+        assertEquals(6,ex1.countInRow(1));
+        assertEquals(0,ex1.countInCol(2));
+        assertEquals(2,ex1.countInCol(6));
     }
 }
