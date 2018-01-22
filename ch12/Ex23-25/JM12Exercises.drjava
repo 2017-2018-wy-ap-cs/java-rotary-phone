@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="ArrayTest.java" package="" timestamp="22-Jan-2018 09:35:27">
+        <select from="225" to="225"/>
+        <scroll column="258" row="0"/>
+      </file>
+      <file name="Rotate.java" package="" timestamp="22-Jan-2018 09:34:39">
+        <select from="225" to="225"/>
+        <scroll column="258" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
