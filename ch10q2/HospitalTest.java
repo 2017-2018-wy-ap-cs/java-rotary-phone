@@ -43,6 +43,7 @@ public class HospitalTest {
                 {"iiihiiiiiiiiiiiiiiiiiiiihiiihiihiihiihii",4,0}, // 60bpm,iv 2
                 {"hiiiihhiiii",1,0}, // "hii" 60bpm, iv 2 = good
                 {"iiihhiiihhiiihhiii",2,1}, // "hh" 60 mpb iv 0 = yellow alert
+                {"iiihhiiihiihiihiihiiiiihhiii",4,0}, // "hihihihi" 60 mpb iv 2 = ok
                 // data, time(secs), state(0=good,1=yellow,2=red alert)
             });
     }
@@ -50,6 +51,6 @@ public class HospitalTest {
     @Test
     public void testHospital() {
         assertEquals(String.format("analyze(\"%s\",%d)",data,secs),
-                     correct, Hospital.analyze(data,secs));
+                     correct, LSHospitalTest.analyze(data,secs));
     }
 }
