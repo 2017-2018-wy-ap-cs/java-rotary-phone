@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="README.txt" package="" timestamp="06-Feb-2018 20:53:18">
+        <select from="321" to="321"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="JavaFXForm.java" package="" timestamp="06-Feb-2018 20:30:14">
+        <select from="321" to="321"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="ColorfulCircles.java" package="" timestamp="06-Feb-2018 20:41:16">
+        <select from="321" to="321"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="HelloWorld.java" package="" timestamp="06-Feb-2018 20:17:24">
+        <select from="321" to="321"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="BasicOpsTest.java" package="" timestamp="06-Feb-2018 20:48:46">
+        <select from="321" to="321"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
