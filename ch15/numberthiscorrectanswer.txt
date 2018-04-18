@@ -1,0 +1,6 @@
+1 This is a text file demonstrating
+2   the
+3   new
+4   assignment.
+5   It has five lines.
+6   I hope. Lol.

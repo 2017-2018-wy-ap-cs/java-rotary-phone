@@ -1,0 +1,6 @@
+This is a text file demonstrating
+  the
+  new
+  assignment.
+  It has five lines.
+  I hope. Lol.
